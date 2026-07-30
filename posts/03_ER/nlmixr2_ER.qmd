@@ -1,0 +1,65 @@
+---
+title: "nlmixr2_ER"
+format: html
+---
+
+# Introduction
+
+Welcome to the learning series, where I explore introductory concepts in pharmacometrics through examples. This post comprises my experience learning about exposure-response (E-R) modeling. The FDA has 
+published a wonderful guidance on E-R modeling, and how sponsors can best analyze clinical trial data to 
+make informed recommendations for an investigational agent's safety-efficacy profile. 
+
+```{r} 
+# manual call of all necessary packages 
+library(tidyverse)
+library(nlmixr2)
+```
+
+# Dataset Preparation
+
+```{r}
+# reading source dataset into R dataframe
+df <- read.csv()
+
+# using dplyr to clean/tidy data from source
+
+df <- df %>%
+  mutate() %>%
+  filter() %>%
+```
+
+# Exploratory Data Analysis
+
+```{r}
+
+ggplot(df, aes(x = , y = , color = factor())) + 
+  geom_line() + 
+  geom_smooth()
+
+```
+
+# Model Building
+
+```{r}
+
+drugX <- function() {
+  ini({
+    tcl <- log()
+    tv <- log()
+    ##var
+    eta.cl + eta.v ~ c(1, 
+                       0.01, 1) ##equiv. to $OMEGA BLOCK(2)
+    add.err <- 0.1
+  })
+  model({
+    cl <- exp(tcl + eta.cl)
+    v <- exp(tv + eta.v)
+    ke <- cl / v
+    d/dt(A1) = -ke * A1
+    cp = A1 / v
+    cp ~ add(add.er)
+  })
+}
+
+
+```

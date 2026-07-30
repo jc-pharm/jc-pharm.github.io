@@ -1,0 +1,15 @@
+---
+title: "About Me"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jack-chen-82238b162/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Friendly neighborhood clinician-aspiring scientist learning all he can.

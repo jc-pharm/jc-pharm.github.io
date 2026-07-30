@@ -1,0 +1,13 @@
+---
+title: "Model-based Meta-Analysis of X Effect in Y Population Across Z Studies"
+author: "Jack Chen"
+date: "2026-06-08"
+categories: [model-based-meta-analysis, R, pharmacokinetics]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
