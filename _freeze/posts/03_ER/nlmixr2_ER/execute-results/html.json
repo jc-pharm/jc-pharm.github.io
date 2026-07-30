@@ -1,0 +1,15 @@
+{
+  "hash": "a648eeeede1fdbd585ca0494d777a810",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"nlmixr2_ER\"\nformat: html\n---\n\n# Introduction\n\nWelcome to the learning series, where I explore introductory concepts in pharmacometrics through examples. This post comprises my experience learning about exposure-response (E-R) modeling. The FDA has \npublished a wonderful guidance on E-R modeling, and how sponsors can best analyze clinical trial data to \nmake informed recommendations for an investigational agent's safety-efficacy profile. \n\n\n::: {.cell}\n\n```{.r .cell-code}\n# manual call of all necessary packages \n#library(tidyverse)\n#library(nlmixr2)\n```\n:::\n\n\n# Dataset Preparation\n\n\n::: {.cell}\n\n:::\n\n\n# Exploratory Data Analysis\n\n\n::: {.cell}\n\n:::\n\n\n# Model Building\n\n\n::: {.cell}\n\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

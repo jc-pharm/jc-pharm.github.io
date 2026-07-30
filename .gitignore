@@ -1,2 +1,15 @@
 /.quarto/
 /_site/
+
+# RStudio / R artifacts
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Environment / Credentials (PRIVATE)
+.env
+*_secret*
+credentials.json
+
+**/*.quarto_ipynb
