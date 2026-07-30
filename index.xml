@@ -10,30 +10,7 @@
 <atom:link href="https://jc-pharm.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>My professional journey to advance/showcase my pharmacometrics skillset</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 30 Jul 2026 04:00:00 GMT</lastBuildDate>
-<item>
-  <title>Review of Currently Available Open Source NLME R Packages for Population PKPD Modeling</title>
-  <dc:creator>Jack Chen</dc:creator>
-  <link>https://jc-pharm.github.io/posts/02_popPKPD/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-
-
-
-</section>
-
- ]]></description>
-  <category>population PK</category>
-  <category>R</category>
-  <category>open source</category>
-  <guid>https://jc-pharm.github.io/posts/02_popPKPD/</guid>
-  <pubDate>Thu, 30 Jul 2026 04:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Fri, 05 Jun 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome To My Blog - Fighting the Good Fight</title>
   <dc:creator>Jack Chen</dc:creator>
@@ -46,7 +23,7 @@
 
 <p>Hi everyone.</p>
 <p>I’d like to share a little bit about my background, in case you wanted to learn more about me. I currently work as an investigational drug services clinical pharmacist, but have had the pleasure of providing care within the acute care continuum since graduating from pharmacy school in 2021. I’ve moved around quite a lot, from an emergency medicine-heavy PGY-1 experience to even a specialized institution serving the hematology/oncology population, Memorial Sloan Kettering. In between all these opportunities, the gravitas of drug development during COVID-19 and my analytical nature guided me towards the quantitative sciences, in which I recently completed my Master’s in Pharmacometrics and Personalized Pharmacotherapy at the University at Buffalo School of Pharmacy and Pharmaceutical Sciences (UBSPPS).</p>
-<p>The last 2 years have been challenging, to say the least, but I am happy with how green I’ve raised my grass. It has been such a pleasure to build my skills within model-informed drug development and the complex intersection of mathematics, statistics, coding, and pharmaceutical sciences that is pharmacometrics. While my professional experience lags behind, there is no contention that the foundational PKPD principles I’ve learned come from leaders in this field (e.g.&nbsp;Dr.&nbsp;Mager, Dr.&nbsp;Jusko, Dr.&nbsp;Bies, etc), and I hope to become successful and represent UBSPPS as an proud alumnus.</p>
+<p>The last 2 years have been challenging, to say the least, but I am happy with how green I’ve raised my grass. It has been such a pleasure to build my skills within model-informed drug development and the complex intersection of mathematics, statistics, coding, and pharmaceutical sciences that is pharmacometrics. While my professional experience lags behind, there is no contention that the foundational PKPD principles I’ve learned come from leaders in this field (e.g.&nbsp;Dr.&nbsp;Mager, Dr.&nbsp;Jusko, Dr.&nbsp;Bies, etc). Therefore, I hope this blog serves as a reminder of where I’ve started and where I’ll go - for now, it’ll be representing UBSPPS as an proud alumnus.</p>
 
 
 
@@ -54,46 +31,6 @@
   <category>personal</category>
   <guid>https://jc-pharm.github.io/posts/01_selfintroduction/</guid>
   <pubDate>Fri, 05 Jun 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>nlmixr2_ER</title>
-  <link>https://jc-pharm.github.io/posts/03_ER/nlmixr2_ER.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="introduction" class="level1">
-<h1>Introduction</h1>
-<p>Welcome to the learning series, where I explore introductory concepts in pharmacometrics through examples. This post comprises my experience learning about exposure-response (E-R) modeling. The FDA has published a wonderful guidance on E-R modeling, and how sponsors can best analyze clinical trial data to make informed recommendations for an investigational agent’s safety-efficacy profile.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># manual call of all necessary packages </span></span>
-<span id="cb1-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#library(tidyverse)</span></span>
-<span id="cb1-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#library(nlmixr2)</span></span></code></pre></div></div>
-</div>
-</section>
-<section id="dataset-preparation" class="level1">
-<h1>Dataset Preparation</h1>
-</section>
-<section id="exploratory-data-analysis" class="level1">
-<h1>Exploratory Data Analysis</h1>
-</section>
-<section id="model-building" class="level1">
-<h1>Model Building</h1>
-
-
-</section>
-
- ]]></description>
-  <guid>https://jc-pharm.github.io/posts/03_ER/nlmixr2_ER.html</guid>
-  <pubDate>Thu, 30 Jul 2026 22:57:50 GMT</pubDate>
 </item>
 </channel>
 </rss>

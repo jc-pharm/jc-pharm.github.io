@@ -4,21 +4,14 @@
     "href": "index.html",
     "title": "Model-Informed Professional Development",
     "section": "",
-    "text": "nlmixr2_ER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReview of Currently Available Open Source NLME R Packages for Population PKPD Modeling\n\n\n\npopulation PK\n\nR\n\nopen source\n\n\n\n\n\n\n\n\n\nJul 30, 2026\n\n\nJack Chen\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog - Fighting the Good Fight\n\n\n\npersonal\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nJack Chen\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/03_ER/nlmixr2_ER.html",
-    "href": "posts/03_ER/nlmixr2_ER.html",
-    "title": "nlmixr2_ER",
-    "section": "",
-    "text": "Introduction\nWelcome to the learning series, where I explore introductory concepts in pharmacometrics through examples. This post comprises my experience learning about exposure-response (E-R) modeling. The FDA has published a wonderful guidance on E-R modeling, and how sponsors can best analyze clinical trial data to make informed recommendations for an investigational agent’s safety-efficacy profile.\n\n# manual call of all necessary packages \n#library(tidyverse)\n#library(nlmixr2)\n\n\n\nDataset Preparation\n\n\nExploratory Data Analysis\n\n\nModel Building"
+    "text": "Welcome To My Blog - Fighting the Good Fight\n\n\n\npersonal\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nJack Chen\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/01_selfintroduction/index.html",
     "href": "posts/01_selfintroduction/index.html",
     "title": "Welcome To My Blog - Fighting the Good Fight",
     "section": "",
-    "text": "Hi everyone.\nI’d like to share a little bit about my background, in case you wanted to learn more about me. I currently work as an investigational drug services clinical pharmacist, but have had the pleasure of providing care within the acute care continuum since graduating from pharmacy school in 2021. I’ve moved around quite a lot, from an emergency medicine-heavy PGY-1 experience to even a specialized institution serving the hematology/oncology population, Memorial Sloan Kettering. In between all these opportunities, the gravitas of drug development during COVID-19 and my analytical nature guided me towards the quantitative sciences, in which I recently completed my Master’s in Pharmacometrics and Personalized Pharmacotherapy at the University at Buffalo School of Pharmacy and Pharmaceutical Sciences (UBSPPS).\nThe last 2 years have been challenging, to say the least, but I am happy with how green I’ve raised my grass. It has been such a pleasure to build my skills within model-informed drug development and the complex intersection of mathematics, statistics, coding, and pharmaceutical sciences that is pharmacometrics. While my professional experience lags behind, there is no contention that the foundational PKPD principles I’ve learned come from leaders in this field (e.g. Dr. Mager, Dr. Jusko, Dr. Bies, etc), and I hope to become successful and represent UBSPPS as an proud alumnus."
+    "text": "Hi everyone.\nI’d like to share a little bit about my background, in case you wanted to learn more about me. I currently work as an investigational drug services clinical pharmacist, but have had the pleasure of providing care within the acute care continuum since graduating from pharmacy school in 2021. I’ve moved around quite a lot, from an emergency medicine-heavy PGY-1 experience to even a specialized institution serving the hematology/oncology population, Memorial Sloan Kettering. In between all these opportunities, the gravitas of drug development during COVID-19 and my analytical nature guided me towards the quantitative sciences, in which I recently completed my Master’s in Pharmacometrics and Personalized Pharmacotherapy at the University at Buffalo School of Pharmacy and Pharmaceutical Sciences (UBSPPS).\nThe last 2 years have been challenging, to say the least, but I am happy with how green I’ve raised my grass. It has been such a pleasure to build my skills within model-informed drug development and the complex intersection of mathematics, statistics, coding, and pharmaceutical sciences that is pharmacometrics. While my professional experience lags behind, there is no contention that the foundational PKPD principles I’ve learned come from leaders in this field (e.g. Dr. Mager, Dr. Jusko, Dr. Bies, etc). Therefore, I hope this blog serves as a reminder of where I’ve started and where I’ll go - for now, it’ll be representing UBSPPS as an proud alumnus."
   },
   {
     "objectID": "about.html",
